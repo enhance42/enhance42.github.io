@@ -17,4 +17,7 @@ Training of 2 Batches in the evening Nov and Dec.
 ## 2021
 GITAM faculty training. Second batch.  
 AMA sessions: Doubts in C programming.  
-Launch of Agna42.  
+GITAM faculty assistance program for 18 first year faculty.
+
+## 2022
+GVPCE C programming for 430 CSE & IT students.
